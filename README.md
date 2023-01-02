@@ -1,3 +1,2 @@
 # project1-ecommerce
- 
-# Project1-Ecommerce
+ Yeh babi gawean front end aisia bangsat
